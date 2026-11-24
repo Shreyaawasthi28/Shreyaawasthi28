@@ -1,3 +1,4 @@
+
 # Hi 👋, I'm Shreya Awasthi
 
 <div align="center">
@@ -55,15 +56,14 @@ A full-stack food-related web application combining frontend and backend develop
 
 ---
 
-### 📝 [Blog-App](https://github.com/Shreyaawasthi28/Blog-App)
+### 🏠 [RentHub — Angular Assignment](https://github.com/Shreyaawasthi28/RentHub-Angular-Assignment)
 
-A web development project focused on building and exploring application features using JavaScript.
+An Angular-based rental application assignment showcasing frontend development and modern web application design.
 
----
+- 🅰️ Angular Development
+- 🌐 Frontend Application
+- 💻 Component-based development
 
-### 🏡 [Stay_smart](https://github.com/Shreyaawasthi28/Stay_smart)
-
-A Python-based development project demonstrating programming and application development.
 ---
 
 ### ⚖️ [JurisAI — Legal Research Assistant](https://github.com/Shreyaawasthi28/JurisAI)
@@ -74,7 +74,15 @@ An AI-powered legal research assistant designed to help with legal document anal
 - 📄 Legal document analysis
 - 💡 Intelligent information processing
 
+---
 
+### 🎵 [Musica — Spotify Inspired Application](https://github.com/Shreyaawasthi28/Musica)
+
+A music-inspired frontend project built to explore interactive web design and frontend development.
+
+- 🎨 Frontend development
+- 🖥️ Interactive UI
+- 🌐 Web technologies
 
 ---
 
@@ -88,24 +96,23 @@ A machine learning project focused on forecasting electricity demand and market 
 
 ---
 
-### 🎵 [Musica — Spotify Inspired Application](https://github.com/Shreyaawasthi28/Musica)
+### 📝 [Blog-App](https://github.com/Shreyaawasthi28/Blog-App)
 
-A music-inspired frontend project built to explore interactive web design and frontend development.
+A web development project focused on building and exploring application features using JavaScript.
 
-- 🎨 Frontend development
-- 🖥️ Interactive UI
-- 🌐 Web technologies
+---
+
+### 🏡 [Stay_smart](https://github.com/Shreyaawasthi28/Stay_smart)
+
+A Python-based development project demonstrating programming and application development.
+
 ---
 
 ## 🌐 Live Deployment
 
 <div align="center">
 
-### 🚀 Angular Project
-
-**Explore my deployed Angular application**
-
-[🔗 View Live Application](YOUR-ANGULAR-LIVE-LINK)
+### 🚀 [Explore RentHub — Angular Project](https://github.com/Shreyaawasthi28/RentHub-Angular-Assignment)
 
 </div>
 
@@ -167,9 +174,6 @@ A music-inspired frontend project built to explore interactive web design and fr
 
 </div>
 
-</div>
-
----
 
 <div align="center">
 
