@@ -44,7 +44,7 @@
 
 ## 🚀 Projects
 
-### 🍔 Just-Eat — Full Stack Web Application
+### 🍔 [Just-Eat — Full Stack Web Application](https://github.com/Shreyaawasthi28/Just-Eat)
 
 A full-stack food-related web application combining frontend and backend development to create an interactive application experience.
 
@@ -55,7 +55,18 @@ A full-stack food-related web application combining frontend and backend develop
 
 ---
 
-### ⚖️ JurisAI — Legal Research Assistant
+### 📝 [Blog-App](https://github.com/Shreyaawasthi28/Blog-App)
+
+A web development project focused on building and exploring application features using JavaScript.
+
+---
+
+### 🏡 [Stay_smart](https://github.com/Shreyaawasthi28/Stay_smart)
+
+A Python-based development project demonstrating programming and application development.
+---
+
+### ⚖️ [JurisAI — Legal Research Assistant](https://github.com/Shreyaawasthi28/JurisAI)
 
 An AI-powered legal research assistant designed to help with legal document analysis, summarization and verification.
 
@@ -63,19 +74,11 @@ An AI-powered legal research assistant designed to help with legal document anal
 - 📄 Legal document analysis
 - 💡 Intelligent information processing
 
----
 
-### 🎵 Musica — Spotify Inspired Application
-
-A music-inspired frontend project built to explore interactive web design and frontend development.
-
-- 🎨 Frontend development
-- 🖥️ Interactive UI
-- 🌐 Web technologies
 
 ---
 
-### ⚡ Electricity Demand & Price Forecasting
+### ⚡ [Electricity Demand & Price Forecasting](https://github.com/Shreyaawasthi28/Electricity-Demand-and-Price-Forecasting)
 
 A machine learning project focused on forecasting electricity demand and market prices using historical data.
 
@@ -85,16 +88,13 @@ A machine learning project focused on forecasting electricity demand and market 
 
 ---
 
-### 📝 Blog-App
+### 🎵 [Musica — Spotify Inspired Application](https://github.com/Shreyaawasthi28/Musica)
 
-A web development project focused on building and exploring application features using JavaScript.
+A music-inspired frontend project built to explore interactive web design and frontend development.
 
----
-
-### 🏡 Stay_smart
-
-A Python-based development project demonstrating programming and application development.
-
+- 🎨 Frontend development
+- 🖥️ Interactive UI
+- 🌐 Web technologies
 ---
 
 ## 🌐 Live Deployment
@@ -154,6 +154,18 @@ A Python-based development project demonstrating programming and application dev
 <a href="https://linkedin.com/in/YOUR-LINK">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Building skills. Building projects. Building my future. ✨
+
+<img src="https://komarev.com/ghpvc/?username=Shreyaawasthi28&style=flat-square&color=blue" alt="Profile Views" />
+
+</div>
 
 </div>
 
