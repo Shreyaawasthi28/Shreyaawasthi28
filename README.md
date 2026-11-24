@@ -76,7 +76,7 @@ An AI-powered legal research assistant designed to help with legal document anal
 
 ---
 
-### 🎵 [Musica — Spotify Inspired Application](https://github.com/Shreyaawasthi28/Musica)
+### 🎵 [Musica — Spotify Inspired Application](https://github.com/Shreyaawasthi28/spotify-clone)
 
 A music-inspired frontend project built to explore interactive web design and frontend development.
 
@@ -86,7 +86,7 @@ A music-inspired frontend project built to explore interactive web design and fr
 
 ---
 
-### ⚡ [Electricity Demand & Price Forecasting](https://github.com/Shreyaawasthi28/Electricity-Demand-and-Price-Forecasting)
+### ⚡ [Electricity Demand & Price Forecasting](https://github.com/Shreyaawasthi28/Electricity_Forecast_Project)
 
 A machine learning project focused on forecasting electricity demand and market prices using historical data.
 
